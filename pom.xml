@@ -31,7 +31,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- plugin versions -->
-        <jaxb2-maven-plugin.version>3.1.0</jaxb2-maven-plugin.version>
+        <jaxb2-maven-plugin.version>3.2.0</jaxb2-maven-plugin.version>
 
         <!-- added by open rewrite for jax-ws updates and not defined in parent -->
         <jaxws-rt.version>4.0.2</jaxws-rt.version>
