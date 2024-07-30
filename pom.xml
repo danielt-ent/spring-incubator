@@ -34,7 +34,7 @@
         <jaxb2-maven-plugin.version>3.2.0</jaxb2-maven-plugin.version>
 
         <!-- added by open rewrite for jax-ws updates and not defined in parent -->
-        <jaxws-rt.version>4.0.2</jaxws-rt.version>
+        <jaxws-rt.version>4.0.3</jaxws-rt.version>
 
         <springdoc-openapi-starter-webmvc-ui.version>2.6.0</springdoc-openapi-starter-webmvc-ui.version>
     </properties>
